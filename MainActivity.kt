@@ -33,7 +33,6 @@ class MainActivity : AppCompatActivity() {
         listDataHeader.add("Xamarin")
         listDataHeader.add("UWP")
 
-
         val edmtDev = mutableListOf<String>()
         edmtDev.add("this is expandable listview")
 
